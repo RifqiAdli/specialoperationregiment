@@ -1,3 +1,5 @@
+@media screen and (min-width: 1024px) and (max-width: 1439) {
+
 @import 'https://fonts.googleapis.com/css?family=Montserrat:300, 400, 700&display=swap';
 * {
   padding: 0;
